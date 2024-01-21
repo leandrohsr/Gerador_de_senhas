@@ -6,7 +6,7 @@ senha = ""
 
 for letra in chave:
     if letra in "Aa": senha = senha + '10'
-    elif letra in "Bb": senha = senha + '11'
+    elif letra in "Bb": senha = senha + '8'
     elif letra in "Cc": senha = senha + '12'
     elif letra in "Dd": senha = senha + '13'
     elif letra in "Ee": senha = senha + '14'
